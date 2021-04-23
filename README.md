@@ -1,0 +1,2 @@
+# QuipBot
+Discord bot Quiplash.
